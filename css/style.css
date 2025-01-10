@@ -1118,7 +1118,7 @@ body {
 }
 
 .cart-direct{
-    margin-left: 39%;
+    margin-left: 35%;
 }
 
 .cart-direct .social-cart a {
@@ -1200,7 +1200,7 @@ body {
 
 @media screen and (max-width: 768px) {
     .head-skills h1 {
-        margin-left: -21%; /* Adjust margin for smaller screens */
+        margin-left: -12%; /* Adjust margin for smaller screens */
     }
 
     .skills-card {
@@ -1219,7 +1219,7 @@ body {
 
 @media screen and (max-width: 365px) {
     .head-skills h1 {
-        margin-left: -46%; /* Adjust margin for even smaller screens */
+        margin-left: -43%; /* Adjust margin for even smaller screens */
     }
 
     .skills-card {
